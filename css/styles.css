@@ -1,0 +1,15 @@
+body{background-color: gold;}
+body {color: purple}
+body{border-style:outset;
+border-width: 20px;
+border-color: purple;
+border-radius: 5px;
+padding: 2px;}
+h3{border-style:double;
+border-width: 5px;
+border-color: purple;
+border-radius: 10px}
+.p1 {padding:3em;
+display: grid;
+grid-gap; 2em}
+div p{word-wrap: break-word;} 
